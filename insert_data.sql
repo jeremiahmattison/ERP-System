@@ -1,0 +1,3 @@
+-- Due to MS Access inability to run multiple query lines at once, I have decided to
+-- just add them on my own. Documenting each individual "insert into" line would just 
+-- be extremely redundant.
